@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<oradores>
+<orador><nombre>Analia</nombre><apellido>Dri</apellido><tema>java</tema></orador>
+<orador><nombre>Mirta</nombre><apellido>Paz</apellido><tema>Java</tema></orador>
+<orador><nombre>Mariana</nombre><apellido>Velo</apellido><tema>msql</tema></orador>
+<orador><nombre>Marta</nombre><apellido>Perez</apellido><tema>mysql</tema></orador>
+<orador><nombre>Juanita</nombre><apellido>Mieres</apellido><tema>php</tema></orador>
+<orador><nombre>Alejandra</nombre><apellido>Soler</apellido><tema>Pyton</tema></orador>
+<orador><nombre>Tom</nombre><apellido>Ortiz</apellido><tema>Base de datos</tema></orador>
+<orador><nombre>Nadin</nombre><apellido>Lencina</apellido><tema>java</tema></orador>
+<orador><nombre>Adrina</nombre><apellido>Valenzuela</apellido><tema>java </tema></orador>
+<orador><nombre>Brisa</nombre><apellido>Villa</apellido><tema>php</tema></orador>
+<orador><nombre>Analia</nombre><apellido>Fernandez</apellido><tema>php</tema></orador>
+<orador><nombre>Mario</nombre><apellido>Luis</apellido><tema>msql</tema></orador>
+<orador><nombre>Marcos</nombre><apellido>Mendez</apellido><tema>java</tema></orador>
+<orador><nombre>Mario</nombre><apellido>Carden</apellido><tema>php</tema></orador>
+</oradores>
